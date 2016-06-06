@@ -3,7 +3,7 @@
 
 Перед тем как мы начнем — позвольте представиться. Во время чтения вы, вероятно, будете задаваться вопросом «кто он такой и что о себе воображает».
 
-Меня зовут **Эрик Элиот**, я автор книги **«Programming JavaScript Applications» (O’Reilly)**, ведущий *документального фильма* **«Programming Literacy»** и создатель серии платных онлайн-курсов **«Learn JavaScript with Eric Elliott»**.
+Меня зовут **Эрик Элиот**, я автор книги **«[Programming JavaScript Applications][0]» (O’Reilly)**, ведущий *документального фильма* **«Programming Literacy»** и создатель серии платных онлайн-курсов **«Learn JavaScript with Eric Elliott»**.
 
 Внес свой вклад в создание ПО для **Adobe Systems, Zumba Fitness, The Wall Street Journal, ESPN, BBC**, топ-артистов таких как **Usher, Frank Ocean, Metallica**, и многих других.
 
@@ -198,3 +198,5 @@ P.S.: Не используете `super` если не получаете уд�
 [js-inherited-mess]: https://davidwalsh.name/javascript-objects
 [pillars-source]: https://medium.com/javascript-scene/the-two-pillars-of-javascript-ee6f3281e7f3
 [comment-about-inheritance]: https://medium.com/@_ericelliott/what-you-were-taught-was-not-prototypal-inheritance-f853ce3db00e
+
+[0]: http://chimera.labs.oreilly.com/books/1234000000262 "Programming JavaScript Applications"
