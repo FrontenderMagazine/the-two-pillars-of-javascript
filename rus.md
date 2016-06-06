@@ -221,5 +221,5 @@ _«Создавайте интерфейсы вместо реализации»
 [16]: https://www.youtube.com/watch?v=bo36MrBfTk4
 [17]: https://github.com/getify/You-Dont-Know-JS
 [18]: https://davidwalsh.name/javascript-objects
-[19]: https://medium.com/javascript-scene/the-two-pillars-of-javascript-ee6f3281e7f3
+[19]: https://medium.com/javascript-scene/the-two-pillars-of-javascript-pt-2-functional-programming-a63aa53a41a4#.1ieyqk33c
 [20]: https://medium.com/@_ericelliott/what-you-were-taught-was-not-prototypal-inheritance-f853ce3db00e
