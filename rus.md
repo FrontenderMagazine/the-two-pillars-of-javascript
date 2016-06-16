@@ -3,7 +3,7 @@
 
 Перед тем как мы начнем — позвольте представиться. Во время чтения вы, вероятно, будете задаваться вопросом «кто он такой и что о себе воображает».
 
-Меня зовут **Эрик Элиот**, я автор книги **«[Programming JavaScript Applications][0]» (O’Reilly)**, ведущий *документального фильма* **«[Programming Literacy][1]»** и создатель серии платных онлайн-курсов «**[Learn JavaScript with Eric Elliott][2]**».
+Меня зовут **Эрик Элиот**, я автор книги «[Programming JavaScript Applications][0]» (O’Reilly), ведущий документального фильма «[Programming Literacy][1]» и создатель серии платных онлайн-курсов «[Learn JavaScript with Eric Elliott][2]».
 
 Внес свой вклад в создание ПО для **Adobe Systems, Zumba Fitness, The Wall Street Journal, ESPN, BBC**, топ-артистов таких как **Usher, Frank Ocean, Metallica**, и многих других.
 
