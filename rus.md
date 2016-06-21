@@ -220,5 +220,5 @@ P.S.: Не используете `super` если не получаете уд�
 [16]: https://www.youtube.com/watch?v=bo36MrBfTk4
 [17]: https://github.com/getify/You-Dont-Know-JS
 [18]: https://davidwalsh.name/javascript-objects
-[19]: https://medium.com/javascript-scene/the-two-pillars-of-javascript-pt-2-functional-programming-a63aa53a41a4#.1ieyqk33c
+[19]: http://frontender.info/the-two-pillars-of-javascript-pt-2-functional-programming/
 [20]: https://medium.com/@_ericelliott/what-you-were-taught-was-not-prototypal-inheritance-f853ce3db00e
